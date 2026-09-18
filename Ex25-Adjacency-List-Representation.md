@@ -1,5 +1,5 @@
 # Ex25 Adjacency List Representation
-## DATE:
+## DATE: 18 - 09 - 2026
 ## AIM:
 To formulate the Java code to display the Adjacency List representation of a graph.
 
